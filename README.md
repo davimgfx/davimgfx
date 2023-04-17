@@ -3,10 +3,8 @@
 [![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davifn_/)
 [![linkedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davimgfx)
 
-[![Davi Fernandes' GitHub stats](https://github-readme-stats.vercel.app/api?username=davimgfx&theme=dracula)](https://github.com/davimgfx/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davimgfx&layout=compact&theme=dracula)](https://github.com/davimgfx)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stach:
 <div style="display: inline_block">
