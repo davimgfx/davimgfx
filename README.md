@@ -1,7 +1,8 @@
 # Olá! Eu sou o Davi Fernandes 👋 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davifncosta/)
-[![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davifn_/)
-[![linkedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davimgfx)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davifn_/)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davimgfx)
+[![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/davimgfx2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davimgfx&layout&theme=dracula)](https://github.com/davimgfx/github-readme-stats)
 [![Davi Fernandes' github stats](https://github-readme-stats.vercel.app/api?username=davimgfx&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
