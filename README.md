@@ -4,7 +4,7 @@
 [![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/davimgfx2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davimgfx&layout&theme=dracula)](https://github.com/davimgfx/github-readme-stats)
-[![Davi Fernandes' github stats](https://github-readme-stats.vercel.app/api?username=davimgfx&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=davimgfx&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stach:
 <div style="display: inline_block">
