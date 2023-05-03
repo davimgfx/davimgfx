@@ -1,7 +1,5 @@
 # Oi, eu sou Davi Fernandes 👋
-<br>
-## Bem vindo a minha página do Github
-
+## Bem vindo ao meu perfil do Github
 Eu sou um desenvolvedor apaixadona pelo Front End, tenho diversas habilidades técnicas e conhecimentos para criar interfaces de usuário eficazes, responsivas e atraentes para os visitantes do site.
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davifncosta/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davifn_/)
