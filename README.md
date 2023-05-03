@@ -3,11 +3,6 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davifn_/)
 [![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/davimgfx2)
 
-<div align="center" width="100%">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=davimgfx&theme=dracula" alt="davimgfx" />
-  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=davimgfx&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davimgfx" />  
-  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davimgfx&show_icons=true&locale=en&theme=dracula" alt="davimgfx" />
-</div>
 
 ## Technologies I know :white_check_mark:
 <div style="display: inline_block">
@@ -26,3 +21,9 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
  </div>
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+
+<div align="center" width="100%">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=davimgfx&theme=dracula" alt="davimgfx" />
+  <img width="44%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=davimgfx&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davimgfx" />  
+  <img width="44%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davimgfx&show_icons=true&locale=en&theme=dracula" alt="davimgfx" />
+</div>
