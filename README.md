@@ -5,7 +5,7 @@ Eu sou um desenvolvedor apaixadona pelo Front End, tenho diversas habilidades t√
 
 ## Technologies I know :white_check_mark:
 <div style="display: inline_block">
-  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" />
+  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=html,java,kotlin,nodejs,figma&theme=light" />
 </div>
 <br>
 
