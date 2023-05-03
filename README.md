@@ -19,7 +19,7 @@ Eu sou um desenvolvedor apaixadona pelo Front End, tenho diversas habilidades tÃ
 
 <div align="center" width="100%">
   <img width="70%" src="https://streak-stats.demolab.com/?user=davimgfx&theme=dracula" alt="davimgfx" />
-  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=davimgfx&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davimgfx" />  
+  <img width="49%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=davimgfx&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davimgfx" />  
   <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davimgfx&show_icons=true&locale=en&theme=dracula" alt="davimgfx" />
 </div>
 <br>
