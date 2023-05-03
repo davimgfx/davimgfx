@@ -1,4 +1,5 @@
-<h1 align="center">Oi, eu sou Davi Fernandes 👋</h1> 
+# Oi, eu sou Davi Fernandes 👋
+<br>
 ## Bem vindo a minha página do Github
 
 Eu sou um desenvolvedor apaixadona pelo Front End e pelo tema dracula no VScode rsrs.
