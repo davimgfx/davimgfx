@@ -5,13 +5,13 @@ Eu sou um desenvolvedor apaixadona pelo Front End, tenho diversas habilidades t√
 
 ## Technologies I know :white_check_mark:
 <div style="display: inline_block">
-  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=html,css,js,sass&theme=dark" />
+  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=html,css,js,sass&theme=light" />
 </div>
 <br>
 
 ## Technologies I'm learning :books:
 <div style="display: inline_block">
-  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=react,angular,nodejs,nextjs,ts&theme=dark" />
+  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=react,angular,nodejs,nextjs,ts&theme=light" />
  </div>
 <br>
 
