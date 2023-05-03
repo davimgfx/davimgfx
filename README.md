@@ -1,6 +1,6 @@
 # Oi, eu sou Davi Fernandes 👋
 ### Bem vindo ao meu perfil do Github
-Eu sou um desenvolvedor apaixadona pelo Front End, tenho diversas habilidades técnicas e conhecimentos para criar interfaces de usuário eficazes, responsivas e atraentes para os visitantes do site.
+Eu sou um desenvolvedor apaixonado pelo Front End, tenho diversas habilidades técnicas e conhecimentos para criar interfaces de usuário eficazes, responsivas e atraentes para os usuários.
 <br>
 
 ## Technologies I know :white_check_mark:
