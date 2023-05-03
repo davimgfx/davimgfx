@@ -3,13 +3,13 @@
 Eu sou um desenvolvedor apaixonado pelo Front End, tenho diversas habilidades técnicas e conhecimentos para criar interfaces de usuário eficazes, responsivas e atraentes para os usuários.
 <br>
 
-## Technologies I know :white_check_mark:
+## Tech Stack :white_check_mark:
 <div style="display: inline_block">
   <img align="center" alt="ts" src="https://skillicons.dev/icons?i=html,css,js,sass&theme=light" />
 </div>
 <br>
 
-## Technologies I'm learning :books:
+## Technologies Estou estudando e aprendendo :books:
 <div style="display: inline_block">
   <img align="center" alt="ts" src="https://skillicons.dev/icons?i=react,angular,nodejs,nextjs,ts&theme=light" />
  </div>
