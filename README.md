@@ -1,9 +1,9 @@
-# Oi, eu sou Davi Fernandes 👋
+# Oi, eu sou Davi Fernandes :wave:
 ### Bem vindo ao meu perfil do Github!
 Eu sou um desenvolvedor apaixonado pelo Front End, tenho diversas habilidades técnicas e conhecimentos para criar interfaces de usuário eficazes, responsivas e atraentes para os usuários.
 <br>
 
-## Tech Stack :white_check_mark:
+## Tech Stack :heavy_check_mark:
 <div style="display: inline_block">
   <img align="center" alt="ts" src="https://skillicons.dev/icons?i=html,css,js,sass&theme=light" />
 </div>
