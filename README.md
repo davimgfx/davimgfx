@@ -14,6 +14,7 @@ Eu sou um desenvolvedor apaixonado pelo Front End, tenho diversas habilidades tÃ
   <img align="center" alt="ts" src="https://skillicons.dev/icons?i=ts,react,angular,nodejs,nextjs&theme=dark" />
  </div>
 <br>
+<br>
 
 <div align="center" width="100%">
   <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davimgfx&show_icons=true&locale=en&theme=dracula" alt="davimgfx" />
