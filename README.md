@@ -3,8 +3,11 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davifn_/)
 [![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/davimgfx2)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davimgfx&layout&theme=dracula)](https://github.com/davimgfx/github-readme-stats)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=davimgfx&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" width="100%">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=davimgfx&theme=dracula" alt="davimgfx" />
+  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=davimgfx&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davimgfx" />  
+  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davimgfx&show_icons=true&locale=en&theme=dracula" alt="davimgfx" />
+</div>
 
 ## Technologies I know :white_check_mark:
 <div style="display: inline_block">
