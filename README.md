@@ -11,7 +11,7 @@ Eu sou um desenvolvedor apaixonado pelo Front End, tenho diversas habilidades tÃ
 
 ## Estudando e aprendendo :books:
 <div style="display: inline_block">
-  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=react,angular,nodejs,nextjs,ts&theme=light" />
+  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=ts,react,angular,nodejs,nextjs&theme=dark" />
  </div>
 <br>
 
