@@ -11,7 +11,7 @@ Eu sou um desenvolvedor apaixadona pelo Front End, tenho diversas habilidades t√
 
 ## Technologies I'm learning :books:
 <div style="display: inline_block">
-  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=react,angular,nodejs&theme=dark" />
+  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=react,angular,nodejs,nextjs,ts&theme=dark" />
  </div>
 <br>
 
