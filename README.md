@@ -1,4 +1,7 @@
-# Olá! Eu sou o Davi Fernandes 👋 
+<h1 align="center">Oi, eu sou Davi Fernandes 👋</h1> 
+## Bem vindo a minha página do Github
+
+Eu sou um desenvolvedor apaixadona pelo Front End e pelo tema dracula no VScode rsrs.
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davifncosta/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davifn_/)
 [![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/davimgfx2)
@@ -23,8 +26,7 @@
 
 <div align="center" width="100%">
   <img width="70%" src="https://streak-stats.demolab.com/?user=davimgfx&theme=dracula" alt="davimgfx" />
-  <img width="44%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=davimgfx&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davimgfx" />  
-  <img width="44%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davimgfx&show_icons=true&locale=en&theme=dracula" alt="davimgfx" />
+  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=davimgfx&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davimgfx" />  
+  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davimgfx&show_icons=true&locale=en&theme=dracula" alt="davimgfx" />
 </div>
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
