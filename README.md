@@ -27,4 +27,4 @@ Eu sou um desenvolvedor apaixonado pelo Front End, tenho diversas habilidades t�
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davifn_/)
 [![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/davimgfx2)
 
-### Portifólio: https://davimgfx.github.io/portfolio/
+### <a href="https://davimgfx.github.io/portfolio" target="_blank">Meu Portifólio</a>
