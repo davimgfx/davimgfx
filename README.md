@@ -3,7 +3,7 @@
 Eu sou um desenvolvedor apaixonado pelo Front End, tenho diversas habilidades técnicas e conhecimentos para criar interfaces eficazes, responsivas e atraentes para os usuários.
 <br>
 <br>
-# <a href="https://davimgfx.github.io/portfolio/" target="_blank">Meu portifólio</a> #
+* <a href="https://davimgfx.github.io/portfolio/" target="_blank">Meu portifólio</a> *
 <br>
 
 ## Tech Stack :heavy_check_mark:
