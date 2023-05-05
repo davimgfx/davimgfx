@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil do Github!
 Eu sou um desenvolvedor apaixonado pelo Front End, tenho diversas habilidades técnicas e conhecimentos para criar interfaces eficazes, responsivas e atraentes para os usuários.
 <br>
-#### <a href="https://davimgfx.github.io/portfolio/" target="_blank">Meu portifólio</a> 🍳
+#### :point_right: <a href="https://davimgfx.github.io/portfolio/" target="_blank">Meu portifólio</a> :point_left:
 
 ## Tech Stack :heavy_check_mark:
 <div style="display: inline_block">
