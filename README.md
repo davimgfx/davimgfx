@@ -23,7 +23,7 @@ Eu sou um desenvolvedor apaixonado pelo Front End, tenho diversas habilidades t�
 </div>
 <br>
 
-## Mais sobre mim 👨‍
+## Minhas outras Redes Sociais 👨‍
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davifncosta/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davifn_/)
 [![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/davimgfx2)
