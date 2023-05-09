@@ -10,7 +10,7 @@ Eu sou um desenvolvedor apaixonado pelo Front End, tenho diversas habilidades tÃ
 </div>
 <br>
 
-## Estudando e aprendendo :books:
+## Aprendendo e interreses :books:
 <div style="display: inline_block">
   <img align="center" alt="ts" src="https://skillicons.dev/icons?i=ts,tailwind,react,angular,nodejs,nextjs&theme=dark" />
  </div>
