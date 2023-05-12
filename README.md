@@ -6,7 +6,7 @@ Eu sou um desenvolvedor apaixonado pelo Front End, tenho diversas habilidades t√
 
 ## Tech Stack :heavy_check_mark:
 <div style="display: inline_block">
-  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=html,css,js,sass,git,github&theme=light" />
+  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=html,css,js,sass,git,github&theme=dark" />
 </div>
 <br>
 
