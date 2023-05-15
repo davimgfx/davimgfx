@@ -13,7 +13,7 @@ Atualmente estou estudando para ser um Front End React e Front End Angular
 
 ## Aprendendo e interreses :books:
 <div style="display: inline_block">
-  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=ts,tailwind,react,angular,nodejs,nextjs&theme=light" />
+  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=ts,tailwind,react,angular,nodejs,nextjs&theme=dark" />
  </div>
 <br>
 <br>
