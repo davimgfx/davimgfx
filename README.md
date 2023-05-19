@@ -11,13 +11,18 @@ Atualmente estou estudando para ser um Front End React e Front End Angular
 </div>
 <br>
 
-## Aprendendo e interreses :books:
+## Aprendendo :books:
 <div style="display: inline_block">
-  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=ts,tailwind,react,angular,nodejs,nextjs&theme=dark" />
+  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=react&theme=dark" />
+ </div>
+<br>
+
+## Interesses 👀:
+<div style="display: inline_block">
+  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=ts,tailwind,angular,nodejs,nextjs&theme=dark" />
  </div>
 <br>
 <br>
-
 <div align="center" width="100%">
   <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=davimgfx&show_icons=true&locale=en&theme=dracula" alt="davimgfx" />
   <img width="49%"  padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=davimgfx&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davimgfx" />  
