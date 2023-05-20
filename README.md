@@ -1,7 +1,7 @@
 # Oi, eu sou Davi Fernandes. :wave:
 ### Bem vindo ao meu perfil do Github!
 Eu sou um desenvolvedor apaixonado pelo Front End, tenho diversas habilidades técnicas e conhecimentos para criar interfaces eficazes, responsivas e atraentes para os usuários. <br>
-Atualmente estou estudando para ser um Front End React e Front End Angular
+Atualmente estou estudando para ser um Front End React.
 <br>
 ### :point_right: <a href="https://davimgfx.github.io/portfolio/" target="_blank">Portifólio</a> :point_left:
 
