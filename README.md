@@ -16,14 +16,15 @@ Atualmente estou estudando para ser um Front End React.
   <img align="center" alt="ts" src="https://skillicons.dev/icons?i=react&theme=dark" />
  </div>
 <br>
-<br>
-<div align="center" width="100%">
-  <img width="49%"  padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=davimgfx&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davimgfx" />  
-</div>
-<br>
 
 ## Minhas outras Redes Sociais 👨‍
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davifncosta/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davifn_/)
 [![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/davimgfx2)
+</div>
+<br>
+
+<div align="center" width="100%">
+  <img width="49%"  padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=davimgfx&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davimgfx" />  
+</div>
 
