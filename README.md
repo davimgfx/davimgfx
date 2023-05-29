@@ -24,7 +24,3 @@ Atualmente estou estudando para ser um Front End React.
 </div>
 <br>
 
-<div align="center" width="100%">
-  <img width="49%"  padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=davimgfx&show_icons=true&locale=en&layout=compact&theme=dracula" alt="davimgfx" />  
-</div>
-
