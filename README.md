@@ -13,7 +13,7 @@ Atualmente estou estudando para ser um Front End React.
 
 ## Aprendendo :books:
 <div style="display: inline_block">
-  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=react&theme=dark" />
+  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
  </div>
 <br>
 
