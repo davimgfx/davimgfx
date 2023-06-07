@@ -7,14 +7,8 @@ Atualmente estou estudando para ser um Front End React.
 
 ## Tech Stack :heavy_check_mark:
 <div style="display: inline_block">
-  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=html,css,js,sass,java,git,github&theme=dark" />
+  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,java,git,github&theme=dark" />
 </div>
-<br>
-
-## Aprendendo :books:
-<div style="display: inline_block">
-  <img align="center" alt="ts" src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
- </div>
 <br>
 
 ## Minhas outras Redes Sociais 👨‍
