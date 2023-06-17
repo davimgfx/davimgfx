@@ -10,6 +10,12 @@ Atualmente estou estudando para ser um Front End React.
   <img align="center" alt="ts" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,java,git,github&theme=dark" />
 </div>
 <br>
+<div style="display: flex">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davimgfx&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=davimgfx&show_icons=true&theme=dracula&count_private=true)
+  
+</div>
 
 ## Minhas outras Redes Sociais 👨‍
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davifncosta/)
