@@ -4,7 +4,7 @@ I am Front End developer.
 
 *   🌍  I'm based in Bahia, Brazil
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://davimgfx.vercel.app/'>Portfolio</a>
-*   🧠  Currently learning Next.js
+*   🧠  Currently learning Next.js and TypeScript
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ## Tech Stack 💻
