@@ -19,11 +19,15 @@ I am Front End developer.
 *   🧠  Currently learning Next.js and TypeScript
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
+---
+
 <div align='center'>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=davimgfx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimgfx&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-  
+
+---
+
 ### Connect with me! 👨‍
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davifncosta/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davifn_/)
