@@ -22,7 +22,7 @@ I am Front End developer.
 ---
 
 <div align='center'>
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=davimgfx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=davimgfx&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimgfx&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
