@@ -28,8 +28,15 @@ I am Front End developer.
 
 ---
 
+<div align="center">
+  
 ### Connect with me! 👨‍
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davifncosta/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davifn_/)
-[![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/davimgfx2)
+
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/davifncosta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu perfil no LinkedIn"></a>
+  <a href="https://www.instagram.com/davifn_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.codewars.com/users/davimgfx2" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"></a>
+</div>
+
 
