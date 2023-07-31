@@ -17,14 +17,17 @@ I am Front End developer.
 *   🌍  I'm based in Bahia, Brazil
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://davimgfx.vercel.app/'>Portfolio</a>
 *   📚  Currently learning React, Next.js and TypeScript
-*   🤝  I'm open to collaborating on interesting projects as a developer
+*   🤝  Now looking for a developer job.
 
+---
 
 <div align='center'>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9pMGdqZXFmY3BjMGdsY3EzN3JrMXA1dWl3YmR1ZzBweXBwNXJneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" height="150rem" alt="Cat programing"/>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimgfx&layout=compact&theme=dracula&count_private=true&hide_border=true"/>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=davimgfx&theme=dracula&count_private=true&hide_border=true&line_height=20"/>
 </div>
+
+---
 
 <div align="center">
   
