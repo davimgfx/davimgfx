@@ -19,24 +19,23 @@ I am Front End developer.
 *   📚  Currently learning React, Next.js and TypeScript
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
----
 
 <div align='center'>
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=davimgfx&theme=dracula&count_private=true&hide_border=true&line_height=20"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9pMGdqZXFmY3BjMGdsY3EzN3JrMXA1dWl3YmR1ZzBweXBwNXJneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" height="150rem" alt="Cat programing"/>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimgfx&layout=compact&theme=dracula&count_private=true&hide_border=true"/>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=davimgfx&theme=dracula&count_private=true&hide_border=true&line_height=20"/>
 </div>
-
----
 
 <div align="center">
   
 ### Connect with me! 👨‍
 
 </div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/davifncosta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu perfil no LinkedIn"></a>
   <a href="https://www.instagram.com/davifn_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.codewars.com/users/davimgfx2" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"></a>
+  <a href="https://www.codewars.com/users/davimgfx2" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"></a> 
 </div>
 
 
