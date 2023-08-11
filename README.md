@@ -12,7 +12,7 @@
 </div>
 
 ## Hi, I'm Davi Fernandes. :wave:
-I am Front End developer.
+I am Front End developer :)
 
 *   🌍  I'm based in Bahia, Brazil
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://davimgfx.vercel.app/'>Portfolio</a>
