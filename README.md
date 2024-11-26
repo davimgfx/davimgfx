@@ -1,3 +1,14 @@
+```js
+function initialize(){
+  const name = 'Davi'
+  const suffix = 'Fernandes'
+
+  console.log(`${name}${suffix}`)
+}
+
+initialize()
+```
+
 <div align="center">  
   <!--   Front end -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML shield"/>
@@ -28,4 +39,4 @@ I am Front End developer :)
 
 *   I'm based in Bahia, Brazil
 *   See my portfolio at <a target="_blank" rel="noreferrer" href='https://davimgfx.vercel.app/'>Portfolio</a>
-*   Currently learning React + Java.
+*   Currently learning Angular + Java.
