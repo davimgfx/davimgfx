@@ -3,7 +3,7 @@ function initialize(){
   const name = 'Davi'
   const suffix = 'Fernandes'
 
-  console.log(`${name}${suffix}`)
+  console.log(`${name} ${suffix}`)
 }
 
 initialize()
